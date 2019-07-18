@@ -29,3 +29,8 @@
 const a = 1;
 console.log(a);
 ```
+姓ddddddddd名|技ddddddd能|排dddddddd行
+:--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
