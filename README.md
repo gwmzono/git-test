@@ -24,4 +24,8 @@
   - list2
     - list3
 1. order
-  2. order
+2. order
+```js
+const a = 1;
+console.log(a);
+```
